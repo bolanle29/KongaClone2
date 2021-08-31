@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* align-items: center; */
+    /* position: relative;
+    left: 600px; */
+    margin: 20px;
+    background-color: #f2f2f2;
+    /* height: 50%; */
+}
+
+.Konga{
+    padding-bottom: 20px;
+    padding: 40px 0;
+     position: relative;
+    left: 590px;
+}
+
+.page{
+     text-align: center;
+     width: 37%;
+     /* margin: 0; */
+     position: relative;
+     left:420px ;
+     border: 1px solid ;
+     border: none;
+     background-color: #fff;
+     border-radius: 5px;
+     /* margin-bottom: 400px; */
+
+}
+
+.caption{
+    padding: 7px 15px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom:10px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+hr{
+    margin-bottom: 20px;
+    color: #9b9b9b;
+    /* color: rgb(243, 243, 243); */
+}
+
+.links{
+    display:flex;
+    margin-bottom: 20px;
+    /* width: 100%; */
+    /* justify-content: center;
+     */
+     /* margin-left: 10px;
+     margin-right: 10px; */
+}
+
+.facebook{
+    margin-bottom: 0;
+    border: 1px solid #41709a;
+    color: #41709a;
+    padding: 8px 15px;
+    width: 5px;
+    /* margin-top: 20px; */
+}
+
+.Google{
+    margin-bottom: 0;
+    border: 1px solid #4285fa;
+    color: #4285fa;
+    padding: 8px 10px;
+    /* margin-top: 20px; */
+}
+
+input[type=password],[type=text]{
+/* border: 1px solid #9b9b9b;
+border-radius: 5px;
+width: 50%;
+padding: 10px 22px; */
+width: 90%;
+padding: 12px 20px;
+margin: 10px 12px;
+display: inline-block;
+/* text-align: right; */
+margin-top: 20px;
+
+   }
+
+   .label{
+      position: relative;
+      right: 130px;
+      padding:60px 0;
+   }
+
+   .fpw{
+       color: #a71b62;
+       position: relative;
+       left: 250px;
+   }
+
+   button{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    background-color: #33b27b;
+    border: none;
+    color: #fff;
+    opacity: 0.2px;
+    padding: 12px 20px;
+    margin-bottom: 35px;
+}
+
+  .TC{
+      margin-bottom: 20px;
+
+}
+
+.Ask{
+    margin-bottom: 20px;
+    color: #9b9b9b;
+}
+
+/* .form p {
+    text-align: center;
+    color:rgb(189, 189, 189) ;
+    width: 90%;
+    margin-bottom: 20px;
+} */
+
+/* .form .enqire{
+    margin-bottom: 40px;
+    text-align: center;
+    justify-content: center;
+    color: rgb(187, 48, 48);
+} */
+
+.base{
+ border: 1px solid #fc3ca2;
+ color: #fc3ca2;
+ width: 50px;
+ position: relative;
+ left: 17px;
+ font-weight: bolder;
+ /* justify-content: center;
+ align-items: center; */
+ padding: 12px 150px;
+ /* margin-bottom:40px; */
+}
+
+span:hover{
+    background-color:#fc3ca2 ;
+    color: #fff;
+
+}

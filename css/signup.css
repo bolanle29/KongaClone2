@@ -1,0 +1,97 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    }
+    
+    body{
+       background-color: #f2f2f2;
+       width: 50%;
+       /* margin:  0 auto; */
+    }
+    
+    
+    .logo img{
+    position:relative;
+    left: 220px;
+    margin: 40px;
+    margin-bottom: 45px;
+    }
+    
+    .form{
+        background-color: #fff;
+        width: 60%;
+        border-radius: 5px;
+        
+    }
+    
+    .form .hr{
+        color:rgb(189, 189, 189) ;
+        margin-bottom: 10px;
+    
+    }
+    
+    .form h2{
+        text-align: center;
+        padding: 16px;
+        font-weight: bolder;
+        font-size: 28px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    input[type=text],[type=email],[type=number],[type=password]{
+        width: 90%;
+        padding: 12px 20px;
+        margin: 10px 12px;
+        display: inline-block;
+        border: 1px solid rgb(214, 214, 214);
+        color:rgb(214, 214, 214);
+        
+    
+    }
+    
+    button{
+        width: 90%;
+        padding: 12px 20px;
+        margin: 10px 0;
+        background-color: #33b27b;
+        border: none;
+        color: #fff;
+        opacity: 0.2px;
+        padding: 12px 20px;
+        margin-bottom: 35px;
+    }
+    
+    .form p {
+        text-align: center;
+        color:rgb(189, 189, 189) ;
+        width: 90%;
+        margin-bottom: 20px;
+    }
+    
+    .form .enqire{
+        margin-bottom: 40px;
+        text-align: center;
+        justify-content: center;
+        color: gray;
+    }
+    
+     .base{
+     border: 1px solid #fc3ca2;
+     color: #fc3ca2;
+     width: 50px;
+     position: relative;
+     left: 30px;
+     font-weight: bolder;
+     /* justify-content: center;
+     align-items: center; */
+     padding: 12px 150px;
+     margin-bottom:40px;
+    }
+    
+    span:hover{
+        background-color:#fc3ca2 ;
+        color: #fff;
+    
+    }
+    
